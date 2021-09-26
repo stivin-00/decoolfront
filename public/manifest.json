@@ -1,0 +1,25 @@
+{
+  "short_name": "De Cool",
+  "name": "Computers Laptos Phones Electronics accessories",
+  "icons": [
+    {
+      "src": "dclogo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "dclogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "dclogo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
